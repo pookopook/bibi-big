@@ -158,3 +158,46 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+학습자료/day13 스터디 241016/data/test_mode.ipynb
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_busan.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_chungbuk.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_chungnam.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_daegu.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_daejeon.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_gangwon.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_gwangju.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_gyeongbuk.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_gyeongnam.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_gyunggi.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_incheon.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_jeju.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_jeonbuk.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_jeonnam.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_sejong.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_seoul.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data/entrc_ulsan.txt
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/강원특별자치도.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/경기도.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/경상남도.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/경상북도.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/광주광역시.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/대구광역시.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/대전광역시.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/부산광역시.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/서울특별시.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/세종특별자치시.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/울산광역시.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/인천광역시.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/전라남도.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/전북특별자치도.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/제주특별자치도.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/충청남도.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_data_add/충청북도.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/gps_DB_spec.pdf
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_data/merged_output.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_dummy_data.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/ltc_dummy_data.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/ltc_result.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/prs_dummy_data.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/prs_result.csv
+학습자료/day13 스터디 241011 2024 SAS Hackathon/gps_noise.pkl
